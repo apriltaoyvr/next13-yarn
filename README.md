@@ -8,4 +8,4 @@ This issue seems to happen when Next 13 app projects are scaffolded with Yarn. I
 2. Run the dev server
 3. It will now 404 as the `app/page.tsx` file is skipped over
 4. Create `app/[slug]/page.tsx`
-5. It will no longer 404 but the app/page.tsx file will still be skipped over
+5. It will no longer 404 but the `app/page.tsx` file will still be skipped over
